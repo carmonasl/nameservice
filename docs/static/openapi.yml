@@ -28309,6 +28309,10 @@ paths:
 definitions:
   carmonasl.nameservice.nameservice.MsgBuyNameResponse:
     type: object
+  carmonasl.nameservice.nameservice.MsgDeleteNameResponse:
+    type: object
+  carmonasl.nameservice.nameservice.MsgSetNameResponse:
+    type: object
   carmonasl.nameservice.nameservice.Params:
     type: object
     description: Params defines the parameters for the module.
